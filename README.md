@@ -1,4 +1,4 @@
-#API CRUD para Médicos em Java com Spring Boot
+# API CRUD para Médicos em Java com Spring Boot
 <h4>O que é?</h4>
 
 Esta API RESTful oferece funcionalidades CRUD (Criar, Ler, Atualizar e Excluir) para gerenciar dados de médicos em sua clínica, utilizando as seguintes tecnologias:
@@ -21,9 +21,9 @@ PUT /medicos/{id}: Atualiza um médico pelo ID.
 DELETE /medicos/{id}: Exclui um médico pelo ID.
 Observações:
 
-A API valida as entradas de dados para garantir a integridade das informações.
+<h4>A API valida as entradas de dados para garantir a integridade das informações.
 A API utiliza paginação para otimizar a listagem de dados em grandes conjuntos.
-Começando:
+Começando:</h4>
 
 Clone o repositório.
 Instale as dependências.
