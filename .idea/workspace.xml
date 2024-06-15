@@ -7,15 +7,7 @@
     <list default="true" id="c2984ecc-f270-41ee-89bd-b635c12301fc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/med/voll/api/controller/MedicoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/med/voll/api/controller/MedicoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/med/voll/api/medico/DadosAtualizacaoMedico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/med/voll/api/medico/dto/DadosAtualizacaoMedico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/med/voll/api/medico/DadosCadastroMedico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/med/voll/api/medico/dto/DadosCadastroMedico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/med/voll/api/medico/DadosListagemMedico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/med/voll/api/medico/dto/DadosListagemMedico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/med/voll/api/medico/Medico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/med/voll/api/medico/Medico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/med/voll/api/controller/MedicoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/med/voll/api/controller/MedicoController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/med/voll/api/medico/DadosAtualizacaoMedico.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/med/voll/api/medico/DadosCadastroMedico.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/med/voll/api/medico/DadosListagemMedico.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/med/voll/api/medico/Medico.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/med/voll/api/medico/Medico.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/med/voll/api/medico/MedicoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/med/voll/api/medico/MedicoService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,9 +58,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Spring Boot.ApiApplication.executor": "Run",
     "git-widget-placeholder": "ServiceFeature",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "C:/Users/Alysson/Desktop/api/src/main/java/med/voll/api",
-    "last_opened_file_path": "E:/Faculdade 3 semestre/Paradigmas da programacao/PrimeVideo",
+    "last_opened_file_path": "C:/Users/Alysson/Desktop/pp1-2024b-main/PrimeVideo",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -139,7 +132,13 @@
       <workItem from="1716735307340" duration="2229000" />
       <workItem from="1716771200750" duration="604000" />
       <workItem from="1716823297864" duration="1074000" />
-      <workItem from="1716847283133" duration="5405000" />
+      <workItem from="1716847283133" duration="8482000" />
+      <workItem from="1717202917013" duration="160000" />
+      <workItem from="1717349777538" duration="1119000" />
+      <workItem from="1717352693456" duration="1159000" />
+      <workItem from="1717363143185" duration="605000" />
+      <workItem from="1718458895545" duration="599000" />
+      <workItem from="1718476093844" duration="3310000" />
     </task>
     <servers />
   </component>
